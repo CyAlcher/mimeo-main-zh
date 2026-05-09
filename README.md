@@ -6,8 +6,8 @@
 
 > *mim·e·o* ｜ 拷贝 · 复制 · 临摹
 
-一句命令，把段永平 / 但斌 / 李录 / 费曼 / 巴菲特的公开思考，
-自动蒸馏成一份可被 Claude Code、Codex、Cursor 直接加载的中文
+一句命令，让AI学习段永平 / 但斌 / 李录 / 费曼 / 巴菲特的思想，
+通过自动蒸馏成一份可被 Claude Code、Codex、Cursor 直接加载的中文
 `SKILL.md` / `AGENTS.md`。
 
 [English](#english-tldr) ·
