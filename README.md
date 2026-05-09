@@ -415,6 +415,5 @@ critique, avatar generation) behaves exactly as upstream.
   架构与流水线设计是本项目的基石；中文版仅做本地化与国产 LLM 适配。
 - 段永平、但斌、李录三位长期写作/访谈公开记录的坚持，让国内价值投资
   社区受益良多。
-- 本仓库 README 结构优化参考了
+- 相关仓库 
   [CyAlcher/ai_native_a_stock_agent](https://github.com/CyAlcher/ai_native_a_stock_agent)
-  的展示方式。
