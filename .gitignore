@@ -15,8 +15,8 @@ wheels/
 .env
 
 # Generated skills + workspace artifacts
-scripts/
 logs/
+output/
 *_workspace/
 
 # uv
